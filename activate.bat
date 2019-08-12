@@ -11,6 +11,10 @@ set PREFIX=%CD%\%ROOT%\%VENV%
 set PATH=%PREFIX%;%PATH%
 echo %PREFIX% ‚ðPATHŠÂ‹«•Ï”‚É’Ç‰Á‚µ‚Ü‚µ‚½
 echo.
+set PREFIX=%CD%\%ROOT%\%VENV%\Lib\site-packages\pywin32_system32
+set PATH=%PREFIX%;%PATH%
+echo %PREFIX% ‚ðPATHŠÂ‹«•Ï”‚É’Ç‰Á‚µ‚Ü‚µ‚½
+echo.
 echo python.exe ‚ÌŽQÆ‡ : 
 where python
 echo.
@@ -22,7 +26,7 @@ echo .>> %FILE%
 echo %CD%\%ROOT%\%VENV%\Scripts>> %FILE%
 echo %CD%\%ROOT%\%VENV%\Lib\site-packages>> %FILE%
 echo %CD%\%ROOT%\%VENV%\Lib\site-packages\win32>> %FILE%
-echo %CD%\%ROOT%\%VENV%\Lib\site-packages\win32\Lib>> %FILE%
+echo %CD%\%ROOT%\%VENV%\Lib\site-packages\win32\lib>> %FILE%
 echo # Uncomment to run site.main() automatically>> %FILE%
 echo # import site>> %FILE%
 echo ######################################
