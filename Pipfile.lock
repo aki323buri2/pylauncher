@@ -1,0 +1,46 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "be17c91a42956dcd0123c34ae9f379854a146ca95a6fcde0f199576047636aec"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "automagica": {
+            "file": "https://github.com/OakwoodAI/automagica/tarball/master"
+        },
+        "recordclass": {
+            "hashes": [
+                "sha256:1c52fd29a8af58eec4ff20f1ece37a4421a3e72d197b06fc7d15d6eaa60746d7",
+                "sha256:1f66cf21baad7b43d5cfe8db84ade9075b8fd434ace0289b9e0927a2cc55d5fe",
+                "sha256:2563f75aa8a03301813841f5820d0f74d639f247bb9869c778227452b68159e2",
+                "sha256:379e722c954100b1924c4ddaba95d8da8939c9d788288d9126669351e8b5b4b9",
+                "sha256:553c1d3118b4b6ba033eff3ee278da7027fff003b6dac3cbcb43991e08d1d2a0",
+                "sha256:733ce6f1feda343c7f9acc8c0f31f7b36c7e091cefe437591c70de8ae7ff13f7",
+                "sha256:80cba5b9e3269339e248b804ea388525551322d2916bffed1f4c92e74851dcbe",
+                "sha256:8789af32320ca01e8ba551bacae604fda941ff56ffa14ee44d3a0b2293d8d8ff",
+                "sha256:89cff8d8fe52eec57533306ab1e93e8ca67ce3b6485bbaf79b4159fb0e54da72",
+                "sha256:8ecde6d553d3482d1ac12929ab4ea122ba0b65f64b61db75a9089faea5efc3ab",
+                "sha256:a330d5c172db7b39d802e3152e69d9e2d15cd3691548b6ee045c1a50ef7b927b",
+                "sha256:a7de7758c467255ca5bfecfe241d62c9e54d8045f634af591e88e761f1973a37",
+                "sha256:ad5cea727f61c2eb92ee4f9b4117e05b71fd528ebaa5ae28cf644f2b9eedc81e",
+                "sha256:b31ae2ed0eb75cef80c4bc26ebc7881a9415c76c11a60c67d6c610741be09f93",
+                "sha256:e94d05aa685d011a130e57ccf6b77d9da4989ddcf0fdd6728f59bb3a7a0b29c5",
+                "sha256:eb478acd9fffc3e3292f9afe91611a6f4f0d223f14676ee5c58532654b04ed55"
+            ],
+            "index": "pypi",
+            "version": "==0.11.1"
+        }
+    },
+    "develop": {}
+}

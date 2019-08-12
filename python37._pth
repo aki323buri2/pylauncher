@@ -1,0 +1,8 @@
+python37.zip
+.
+..\.venv\Scripts
+..\.venv\Lib\site-packages
+..\.venv\Lib\site-packages\win32
+..\.venv\Lib\site-packages\win32\Lib
+# Uncomment to run site.main() automatically
+# import site

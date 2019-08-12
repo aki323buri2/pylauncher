@@ -1,0 +1,1 @@
+powershell start cmd -verb runas -args '/k ""cd /d %CD% ^&^& activate""'
